@@ -18,4 +18,4 @@ OpenCV
 
 ![image](https://github.com/Bala-Saatvik/PRODIGY_ML_04/assets/94885375/94b8f126-3433-47fe-a950-0528cb127b7c)
 ![image](https://github.com/Bala-Saatvik/PRODIGY_ML_04/assets/94885375/a85a0f8c-6f28-4313-9463-873bc6665b70)
-![image](https://github.com/Bala-Saatvik/PRODIGY_ML_04/assets/94885375/317393fa-d4e4-4869-8c71-ad2760871e23)
+
